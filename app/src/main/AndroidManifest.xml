@@ -14,6 +14,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Konekin">
         <activity
+            android:name=".CreateEmployeeActivity"
+            android:exported="false" />
+        <activity
             android:name=".DetailEmployeeActivity"
             android:exported="false" />
         <activity
